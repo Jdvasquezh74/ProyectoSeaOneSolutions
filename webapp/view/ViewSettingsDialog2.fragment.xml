@@ -1,0 +1,23 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core" xmlns:l="sap.ui.layout">
+    <ViewSettingsDialog>
+        
+
+        
+        <sortItems>
+            
+            <ViewSettingsItem text="nombre" key="nombre"/>
+            
+            <ViewSettingsItem text="descripcion" key="descripcion"/>
+            
+            <ViewSettingsItem text="avance" key="avance"/>
+            
+            <ViewSettingsItem text="fecha" key="fecha"/>
+            
+            <ViewSettingsItem text="completada" key="completada"/>
+            
+        </sortItems>
+        
+
+        
+    </ViewSettingsDialog>
+</core:FragmentDefinition>
